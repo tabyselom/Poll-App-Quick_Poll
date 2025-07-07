@@ -1,0 +1,8 @@
+{
+  "/(auth)/user/dashboard/page": "app/(auth)/user/dashboard/page.js",
+  "/(auth)/user/login/page": "app/(auth)/user/login/page.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/poll/create/page": "app/(root)/poll/create/page.js",
+  "/(root)/poll/vote/[id]/page": "app/(root)/poll/vote/[id]/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}

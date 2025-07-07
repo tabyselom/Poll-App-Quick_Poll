@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/phoniex/Desktop/node/pollapp/frontend/src/components/AuthNavbar.tsx"],"sourcesContent":["\"use client\";\n\nimport Link from \"next/link\";\nimport React from \"react\";\n\n// #0d1b25 bg\n//#27d6a1 logo\n//#c7c6c4 text\n\nfunction AuthNavbar() {\n  return (\n    <div className=\"flex justify-center items-center text-white bg-[#0d1b25] px-8 py-4\">\n      <h1 className=\"text-5xl font-bold\">\n        <Link href=\"/\">\n          Quick<span className=\"text-[#5bcfb1]\">Poll</span>\n        </Link>\n      </h1>\n    </div>\n  );\n}\n\nexport default AuthNavbar;\n"],"names":[],"mappings":";;;;AAEA;AAFA;;;AAKA,aAAa;AACb,cAAc;AACd,cAAc;AAEd,SAAS;IACP,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAG,WAAU;sBACZ,cAAA,8OAAC,4JAAA,CAAA,UAAI;gBAAC,MAAK;;oBAAI;kCACR,8OAAC;wBAAK,WAAU;kCAAiB;;;;;;;;;;;;;;;;;;;;;;AAKhD;uCAEe","debugId":null}}]
+}
