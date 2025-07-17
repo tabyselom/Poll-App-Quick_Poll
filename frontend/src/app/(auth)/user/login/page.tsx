@@ -131,7 +131,7 @@ function LoginPage() {
             textAlign="center"
             sx={{ color: "#ccc", marginTop: 2 }}
           >
-            Don't have an account?{" "}
+            Don&apos;t have an account?{" "}
             <a href="/user/signup" style={{ color: "#5bcfb1" }}>
               Sign Up
             </a>
